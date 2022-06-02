@@ -1,3 +1,4 @@
+//Testes realizados com emulador Pixel 2 API 28 (Android 9)
 describe("Testes API Demos", () => {
     afterEach(() => {
         driver.reset();
